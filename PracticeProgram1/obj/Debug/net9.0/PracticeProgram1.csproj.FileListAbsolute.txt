@@ -1,0 +1,14 @@
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\bin\Debug\net9.0\PracticeProgram1.exe
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\bin\Debug\net9.0\PracticeProgram1.deps.json
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\bin\Debug\net9.0\PracticeProgram1.runtimeconfig.json
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\bin\Debug\net9.0\PracticeProgram1.dll
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\bin\Debug\net9.0\PracticeProgram1.pdb
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\obj\Debug\net9.0\PracticeProgram1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\obj\Debug\net9.0\PracticeProgram1.AssemblyInfoInputs.cache
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\obj\Debug\net9.0\PracticeProgram1.AssemblyInfo.cs
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\obj\Debug\net9.0\PracticeProgram1.csproj.CoreCompileInputs.cache
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\obj\Debug\net9.0\PracticeProgram1.dll
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\obj\Debug\net9.0\refint\PracticeProgram1.dll
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\obj\Debug\net9.0\PracticeProgram1.pdb
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\obj\Debug\net9.0\PracticeProgram1.genruntimeconfig.cache
+C:\Users\prath\Desktop\Deloitte C# Projects\PracticeProgram1\obj\Debug\net9.0\ref\PracticeProgram1.dll
